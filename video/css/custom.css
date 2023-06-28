@@ -292,7 +292,7 @@
 /* Third Slide */
 .demo-1 .bg-3 .sl-slide-inner,
 .demo-1 .bg-3 .sl-content-slice {
-	background: url('../images/Vid3.gif')no-repeat center center fixed;
+	background: url('../images/Vid3.mp4')no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
