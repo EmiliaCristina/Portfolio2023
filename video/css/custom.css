@@ -262,7 +262,7 @@
 /* First Slide */
 .demo-1 .bg-1 .sl-slide-inner,
 .demo-1 .bg-1 .sl-content-slice {
-background: url('../images/Showreel.mp4')no-repeat center center fixed;
+
   -webkit-background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
