@@ -172,8 +172,13 @@ section.slide .slider-container .tempo-bar {
   bottom: 0px;
   height: 5px;
   background: var(--color-slider);
-  width: 0%;
+  width: 5px;
   z-index: 91;
   display: block;
   float: left;
+
+ 
+  border-radius: 50%;
+  
+  
 }
